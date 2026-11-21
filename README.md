@@ -44,6 +44,8 @@ Or call them directly: `/launch-checklist` (Claude Code, Cursor) or `$launch-che
 
 > **Black Friday:** 40% off the full pack with code `BF40` until Dec 1, 2026 ([open with the code applied](https://nandohusni.gumroad.com/l/nextjs-launch-skills/BF40?referrer=https://github.com)).
 
+[![Featured on Awesome Black Friday Deals 2026](https://img.shields.io/badge/Featured_on-Awesome_Black_Friday_Deals_2026-black?style=for-the-badge)](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals)
+
 Not affiliated with Vercel, Anthropic, OpenAI or Anysphere. Product names are trademarks of their owners.
 
 Issues and pull requests are welcome. If these skills help you, a star helps other developers find them.
